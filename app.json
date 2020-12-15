@@ -1,0 +1,12 @@
+{
+  "name": "Webloom-RN-APP",
+  "displayName": "Webloom-RN-APP",
+  "expo": {
+    "name": "Webloom-RN-APP",
+    "slug": "Webloom-RN-APP",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
