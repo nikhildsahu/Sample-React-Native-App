@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "327718293267",
+    "project_id": "webloom-sample-rn",
+    "storage_bucket": "webloom-sample-rn.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:327718293267:android:f6b7b470504bc14fed14e6",
+        "android_client_info": {
+          "package_name": "com.webloomrnapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "327718293267-a29mkjhsd8357durov31s671gd0f76il.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbqmhxplG9FrGDZ8sDzXw2e2yr1pSwpHc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "327718293267-a29mkjhsd8357durov31s671gd0f76il.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
